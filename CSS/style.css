@@ -20,3 +20,36 @@ h1, h2, h3 {
     letter-spacing: 3px;
     color: #1c1c1c;
 }
+
+#logo {
+    float: left;
+    font-size: 300%;
+    margin-left: 20px;
+}
+
+#menu {
+    font-size: 150%;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #1c1c1c;
+}
+
+.current {
+    border-bottom: 1px solid #1c1c1c;
+}
