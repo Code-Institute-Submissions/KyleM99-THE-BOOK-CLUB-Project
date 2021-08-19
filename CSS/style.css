@@ -78,6 +78,8 @@ h1, h2, h3 {
 
 #book-image {
     height: 750px;
-    width: 100%;
+    width: 33%;
     background: url(/Images/henry-be-lc7xcWebECc-unsplash.jpg);
+    float: right;
+    background-size: 100% 100%;
 }
