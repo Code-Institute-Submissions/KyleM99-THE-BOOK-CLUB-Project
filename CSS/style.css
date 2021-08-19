@@ -27,6 +27,8 @@ h1, h2, h3 {
     margin-left: 20px;
 }
 
+/* Navigation Links */
+
 #menu {
     font-size: 150%;
 }
@@ -52,4 +54,30 @@ h1, h2, h3 {
 
 .current {
     border-bottom: 1px solid #1c1c1c;
+}
+
+/* Book image and about us text */
+
+#about-us {
+    color: #3a3a3a;
+    font-weight: 300;
+    font-size: 110%;
+}
+
+#clickable-book-club {
+    border-bottom: none;
+}
+
+#book-outer {
+    height: 750px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background-color: green;
+}
+
+#book-image {
+    height: 750px;
+    width: 100%;
+    background: url(/Images/henry-be-lc7xcWebECc-unsplash.jpg);
 }
