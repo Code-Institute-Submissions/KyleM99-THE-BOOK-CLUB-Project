@@ -27,6 +27,11 @@ h1, h2, h3 {
     margin-left: 20px;
 }
 
+header {
+    border-bottom: 2px solid #008b8b;
+    overflow: auto;
+}
+
 /* Navigation Links */
 
 #menu {
@@ -69,17 +74,33 @@ h1, h2, h3 {
 }
 
 #book-outer {
-    height: 750px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
-    background-color: green;
 }
 
 #book-image {
-    height: 750px;
+    height: 600px;
     width: 33%;
     background: url(/Images/henry-be-lc7xcWebECc-unsplash.jpg);
     float: right;
     background-size: 100% 100%;
+}
+
+#about-us-text > h2 {
+    font-size: 200%;
+    width: 66%;
+    padding-top: 30px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+hr {
+    margin: 5px 0;
+}
+
+#about-us-text > p {
+    margin-left: 160px;
+    margin-right: 700px;
 }
