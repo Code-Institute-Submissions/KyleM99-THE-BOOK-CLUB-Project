@@ -23,5 +23,5 @@ Added "all" social links to the home site of each, also added copyright logo and
 ![image](https://user-images.githubusercontent.com/87777851/130067037-aca72956-1c63-449e-89b8-dd9230822baf.png)
 
 
-#Credits
+# -Credits
 Home page image taken from - https://unsplash.com/photos/lc7xcWebECc
