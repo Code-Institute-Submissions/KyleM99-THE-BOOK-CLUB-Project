@@ -219,6 +219,37 @@ hr {
     margin-top: 20px;
 }
 
+#top-reviews p {
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+#buy-quixote {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-promised {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-love {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-vinci{
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-rings {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+
 /* Footer */
 
 footer {
