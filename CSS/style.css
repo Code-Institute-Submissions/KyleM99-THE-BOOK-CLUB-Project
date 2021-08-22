@@ -142,7 +142,7 @@ hr {
 
 #top-5-picks div {
     width: 19%;
-    height: 500px;
+    height: 350px;
     float: left;
     text-align: center;
     border-radius: 25px;
@@ -153,7 +153,71 @@ hr {
     padding-top: 12px;
 }
 
+#don-quixote {
+    height: 250px;
+    width: auto;
+}
 
+#promised-land {
+    height: 250px;
+    width: auto;
+}
+
+#love-simon {
+    height: 250px;
+    width: auto;
+}
+
+#da-vinci {
+    height: 250px;
+    width: auto;
+}
+
+#lord-rings {
+    height: 250px;
+    width: auto;
+}
+
+#quixote-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#promised-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#love-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#vinci-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#rings-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+/* Reviews */
+
+#top-reviews div {
+    width: 19%;
+    height: 600px;
+    float: left;
+    text-align: center;
+    border-radius: 25px;
+    border: 2px solid #008b8b;
+    margin-left: 10px;
+    margin-right: 5px;
+    overflow: hidden;
+    padding-top: 12px;
+    margin-top: 20px;
+}
 
 /* Footer */
 
