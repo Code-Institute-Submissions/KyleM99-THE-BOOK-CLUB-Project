@@ -15,7 +15,14 @@ Added information about the concept of the Book Club, added picture,
 ## Book Recommendations
 Added a place to look at some Top 5 current book recommendations, soon to have links to purchase books externally, and link to book review on other page.
 ![image](https://user-images.githubusercontent.com/87777851/130066952-119a486c-1dcc-4853-b2d6-335af2b19056.png)
+Added the images and a link to the review on the other page.
+![image](https://user-images.githubusercontent.com/87777851/130338868-c6a29b27-5e0e-4aa9-8ae5-48dce7847e20.png)
 
+## Book reviews
+Added part of each review under each book cover, with a link to continue reading the review. Added a link to purchase the book.
+![image](https://user-images.githubusercontent.com/87777851/130338898-6e30a85e-1465-4fe4-a3d9-f12b251b1af4.png)
+Added extra div's so I can add more book soon.
+![image](https://user-images.githubusercontent.com/87777851/130338906-5ce765b2-ecbc-4174-8880-00a92106e9ed.png)
 
 
 ## Social Links and Copyright
@@ -25,3 +32,6 @@ Added "all" social links to the home site of each, also added copyright logo and
 
 # -Credits
 Home page image taken from - https://unsplash.com/photos/lc7xcWebECc
+Book cover page images taken from - https://www.google.com/
+Reviews taken from - https://www.goodreads.com/
+Purchase links taken from - https://www.amazon.com/
