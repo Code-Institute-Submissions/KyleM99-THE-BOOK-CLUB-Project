@@ -76,6 +76,7 @@ header {
 
 #clickable-book-club {
     border-bottom: none;
+    color: #008b8b;
 }
 
 #book-outer {
@@ -178,6 +179,56 @@ hr {
     width: auto;
 }
 
+#gone {
+    height: 250px;
+    width: auto;
+}
+
+#ready-player-one {
+    height: 250px;
+    width: auto;
+}
+
+#armada {
+    height: 250px;
+    width: auto;
+}
+
+#rural-diaries {
+    height: 250px;
+    width: auto;
+}
+
+#being-a-wallflower {
+    height: 250px;
+    width: auto;
+}
+
+#the-vorrh {
+    height: 250px;
+    width: auto;
+}
+
+#chariots-of-gods {
+    height: 250px;
+    width: auto;
+}
+
+#harry-potter {
+    height: 250px;
+    width: auto;
+}
+
+#lion-witch-wardrobe {
+    height: 250px;
+    width: auto;
+}
+
+#artemis-fowl {
+    height: 250px;
+    width: auto;
+}
+
 #quixote-review {
     text-decoration: none;
     color: #008b8b;
@@ -247,6 +298,16 @@ hr {
 #buy-rings {
     text-decoration: none;
     color: #008b8b;
+}
+
+/* Book Club */
+
+.club{
+    margin-top: 450px;
+    margin-bottom: 50px;
+    text-decoration: none;
+    color: #008b8b;
+    text-align: center;
 }
 
 
