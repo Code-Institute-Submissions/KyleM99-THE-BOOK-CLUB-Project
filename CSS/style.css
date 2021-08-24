@@ -254,6 +254,56 @@ hr {
     color: #008b8b;
 }
 
+#gone-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#ready-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#armada-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#rural-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#wallflower-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#vorrh-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#chariots-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#harry-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#lion-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#artemis-review {
+    text-decoration: none;
+    color: #008b8b;
+}
+
 /* Reviews */
 
 #top-reviews div {
@@ -296,6 +346,56 @@ hr {
 }
 
 #buy-rings {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-gone {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-ready {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-armada {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-rural {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-wallflower {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-vorrh {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-chariots {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-harry {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-lion {
+    text-decoration: none;
+    color: #008b8b;
+}
+
+#buy-artemis {
     text-decoration: none;
     color: #008b8b;
 }
