@@ -21,7 +21,7 @@ Added the images and a link to the review on the other page.
 ## Book reviews
 Added part of each review under each book cover, with a link to continue reading the review. Added a link to purchase the book.
 ![image](https://user-images.githubusercontent.com/87777851/130338898-6e30a85e-1465-4fe4-a3d9-f12b251b1af4.png)
-Added extra div's so I can add more book soon.
+Added extra div's so I can add more books soon.
 ![image](https://user-images.githubusercontent.com/87777851/130338906-5ce765b2-ecbc-4174-8880-00a92106e9ed.png)
 
 
