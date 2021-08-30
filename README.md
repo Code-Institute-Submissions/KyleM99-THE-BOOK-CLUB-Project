@@ -34,7 +34,8 @@ Added "all" social links to the home site of each, also added copyright logo and
 
 
 # -Credits
-Home page image taken from - https://unsplash.com/photos/lc7xcWebECc
-Book cover page images taken from - https://www.google.com/
-Reviews taken from - https://www.goodreads.com/
-Purchase links taken from - https://www.amazon.com/
+Home page image taken from - https://unsplash.com/photos/lc7xcWebECc  
+Book Club image taken from - https://unsplash.com/photos/HH4WBGNyltc  
+Book cover page images taken from - https://www.google.com/  
+Reviews taken from - https://www.goodreads.com/  
+Purchase links taken from - https://www.amazon.com/  
