@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0 ;
+    padding: 0 ;
     border: none;
     background-color: #EEEEEE;
 }
@@ -113,7 +113,6 @@ hr {
 }
 
 #about {
-    margin: 25px 0;
 }
 
 #what-we-do {
@@ -298,4 +297,73 @@ footer {
 #copyright a {
     color: inherit;
     text-decoration: none;
+}
+
+/* Media Queries */
+
+/* For large to medium screen sizes from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    #about-us-text {
+        width: 55%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    .social-networks {
+        width: 50%;
+        float: left;
+    }
+}
+
+
+/* For medium screen sizes from 900px wide and down */
+@media screen and (max-width: 900px) {
+    #about-us-text {
+        width: 80%;
+        height: 1200px;
+        margin: 0 auto;
+        float: left;
+    }
+
+    #about-us-text h2 {
+        text-align: center;
+    }
+
+    #book-image {
+        width: 0%;
+    }
+
+    #about {
+        font-size: smaller;
+        width: 80%;
+        margin-left: 10% !important;
+    }
+
+    #what-we-do {
+        font-size: smaller;
+        width: 80%;
+        margin-left: 10% !important;
+    }
+
+    #join-club {
+        font-size: smaller;
+        width: 80%;
+        margin-left: 10% !important;
+    }
+
+    #top-picks {
+        font-size: small;
+        padding-bottom: 15% !important;
+    }
+
+    .box1 {
+        width: 90%;
+        padding: 20% 10% 20% 10% !important;
+    }
+
+    
+    .box2 {
+        width: 90%;
+        padding: 20% 10% 20% 10% !important;
+    }
 }
