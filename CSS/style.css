@@ -299,6 +299,7 @@ footer {
     text-decoration: none;
 }
 
+
 /* Media Queries */
 
 /* For large to medium screen sizes from 1200px wide and down */
@@ -356,14 +357,51 @@ footer {
         padding-bottom: 15% !important;
     }
 
-    .box1 {
-        width: 90%;
-        padding: 20% 10% 20% 10% !important;
+    #top-5-picks > div {
+        width: 45% !important;
+        margin-bottom: 3%;
+        height: 300px;
     }
 
-    
-    .box2 {
+    .box1 h2 {
+        font-size: medium;
+    }
+
+    .book-cover {
         width: 90%;
-        padding: 20% 10% 20% 10% !important;
+    }
+
+    .book-review {
+        font-size: small;
+    }
+
+    .box2 h2 {
+        font-size: small;
+    }
+
+    .box3 h2 {
+        font-size: small;
+    }
+
+    .box4 h2 {
+        font-size: small;
+    }
+
+    .box5 h2 {
+        font-size: small;
+    }
+
+    .social-networks {
+        width: 100%;
+    }
+
+    #top-reviews {
+        width: 100%;
+        column-count: 1;
+        padding: 0;
+    }
+
+    #top-reviews > div {
+        width: 45%;
     }
 }
