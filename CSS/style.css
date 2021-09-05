@@ -112,8 +112,6 @@ hr {
     margin: 5px 0;
 }
 
-#about {
-}
 
 #what-we-do {
     margin: 25px 0;
@@ -141,6 +139,7 @@ hr {
     font-size: 300%;
     height: 100px;
     width: 90%;
+    padding-bottom: 30px;
 }
 
 #top-5-picks div {
@@ -299,20 +298,192 @@ footer {
     text-decoration: none;
 }
 
+.social-networks-club {
+    text-align: center;
+}
+
+.social-networks-club > li {
+    display: inline;
+}
+
+.social-networks-club i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 2%;
+    color: #008b8b;
+    margin-top: 500px;
+}
+
+#copyright-club {
+    text-align: left;
+    height: 20px;
+    color: #008b8b;
+    margin-top: 0;
+}
+
+#copyright-club a {
+    color: inherit;
+    text-decoration: none;
+}
+
 
 /* Media Queries */
 
 /* For large to medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     #about-us-text {
-        width: 55%;
+        width: 70%;
         height: 1200px;
         margin: 0 auto;
+        float: left;
+    }
+
+    #about-us-text h2 {
+        text-align: center;
+    }
+
+    #book-image {
+        width: 25%;
+        position: relative;
+    }
+
+    #about {
+        font-size: medium;
+        width: 75%;
+        margin-left: 10% !important;
+    }
+
+    #what-we-do {
+        font-size: medium;
+        width: 75%;
+        margin-left: 10% !important;
+    }
+
+    #join-club {
+        font-size: medium;
+        width: 75%;
+        margin-left: 10% !important;
+    }
+
+    #top-picks {
+        font-size: small;
+    }
+
+    #top-5-picks > div {
+        width: 30% !important;
+        margin-bottom: 3%;
+        height: 300px;
+    }
+
+    .box1 h2 {
+        font-size: medium;
+    }
+
+    .book-cover {
+        width: 70%;
+    }
+
+    .book-review {
+        font-size: medium;
+    }
+
+    .box2 h2 {
+        font-size: medium;
+    }
+
+    .box3 h2 {
+        font-size: medium;
+    }
+
+    .box4 h2 {
+        font-size: medium;
+    }
+
+    .box5 h2 {
+        font-size: medium;
     }
 
     .social-networks {
-        width: 50%;
-        float: left;
+        width: 100%;
+    }
+
+    #top-reviews {
+        width: 100%;
+        column-count: 1;
+        padding: 0;
+    }
+
+    #top-reviews > div {
+        width: 30%;
+        height: 550px;
+    }
+
+    #top-reviews p {
+        font-size: medium;
+    }
+
+    #main-text {
+        font-size: 150%;
+        font-family: Montserrat, sans-serif;
+        text-transform: uppercase;
+        width: 45%;
+        height: 350px;
+        padding-top: 50px;
+        background-color: #3a3a3a;
+        color: #008b8b;
+        top: 120px;
+        left: 10px;
+        position: absolute;
+        text-align: center;
+    }
+    
+    #secondary-text {
+        font-size: 150%;
+        font-family: Montserrat, sans-serif;
+        text-transform: uppercase;
+        width: 45%;
+        height: 350px;
+        padding-top: 50px;
+        background-color: #3a3a3a;
+        color: #008b8b;
+        top: 120px;
+        right: 10px;
+        position: absolute;
+        text-align: center;
+    }
+
+    #club-meetings {
+        font-size: large;
+        position: absolute;
+        margin-bottom: 10px;
+    }
+
+    .social-networks-club {
+        text-align: center;
+    }
+    
+    .social-networks-club > li {
+        display: inline;
+    }
+    
+    .social-networks-club i {
+        font-size: 300%;
+        margin: 1%;
+        padding: 2%;
+        color: #008b8b;
+        margin-top: 550px;
+    }
+    
+    #copyright-club {
+        text-align: left;
+        height: 20px;
+        color: #008b8b;
+        margin-top: 0;
+    }
+    
+    #copyright-club a {
+        color: inherit;
+        text-decoration: none;
     }
 }
 
@@ -404,4 +575,59 @@ footer {
     #top-reviews > div {
         width: 45%;
     }
+
+    #top-reviews p {
+        font-size: small;
+    }
+
+    #main-text {
+        font-size: small;
+        width: 95%;
+        height: auto;
+        position: absolute;
+        left: 2px;
+        margin-top: 250px;
+    }
+
+    #secondary-text {
+        font-size: small;
+        height: auto;
+        width: 95%;
+        left: 2px;
+    }
+
+    #club-meetings {
+        font-size: medium;
+        position: absolute;
+        margin-bottom: 10px;
+    }
+
+    .social-networks-club {
+        text-align: center;
+    }
+    
+    .social-networks-club > li {
+        display: inline;
+    }
+    
+    .social-networks-club i {
+        font-size: 300%;
+        margin: 1%;
+        padding: 2%;
+        color: #008b8b;
+        margin-top: 550px;
+    }
+    
+    #copyright-club {
+        text-align: left;
+        height: 20px;
+        color: #008b8b;
+        margin-top: 0;
+    }
+    
+    #copyright-club a {
+        color: inherit;
+        text-decoration: none;
+    }
+
 }
