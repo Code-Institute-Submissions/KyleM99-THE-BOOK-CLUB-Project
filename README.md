@@ -26,7 +26,8 @@ Added extra div's so I can add more books soon.
 Put the other books in for the review.
 ![image](https://user-images.githubusercontent.com/87777851/131216672-d6617835-e682-4278-a503-6436c8b18ca4.png)
 
-
+## Bug Finding
+The pictures of the book covers were not loading upon review, I have altered the code so the image now shows after a couple seconds as the images saved to the images folder do not work, so instead the images are being pulled from Google.
 
 ## Social Links and Copyright
 Added "all" social links to the home site of each, also added copyright logo and name bottom left with clickable link.
