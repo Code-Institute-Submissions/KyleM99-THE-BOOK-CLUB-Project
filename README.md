@@ -33,6 +33,8 @@ The pictures of the book covers were not loading upon review, I have altered the
 Added "all" social links to the home site of each, also added copyright logo and name bottom left with clickable link.
 ![image](https://user-images.githubusercontent.com/87777851/130067037-aca72956-1c63-449e-89b8-dd9230822baf.png)
 
+## Testing & Deployment.
+Only after resubmitting it I was told I needed this section, and as I have never seen what to put in this section, I have nothing to say.. [Don't know why it took until the resubmission to have an issue with leaving this section out, but whatever]
 
 # -Credits
 Home page image taken from - https://unsplash.com/photos/lc7xcWebECc  
