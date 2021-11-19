@@ -452,6 +452,10 @@ footer {
         text-align: center;
     }
 
+    #secondary-text p {
+        background-color: #3a3a3a;
+    }
+
     #club-meetings {
         font-size: large;
         position: absolute;
@@ -583,26 +587,32 @@ footer {
 
     #main-text {
         font-size: small;
-        width: 95%;
+        width: 60%;
         height: auto;
         position: absolute;
         left: 2px;
         margin-top: 250px;
         top: 35%;
+        padding-bottom: 5%;
     }
 
     #secondary-text {
         font-size: small;
         height: auto;
-        width: 95%;
+        width: 60%;
         left: 2px;
         top: 35%;
+        float: left;
+    }
+
+    #secondary-text p {
+        float: left;
+        background-color: #3a3a3a;
     }
 
     #club-meetings {
         font-size: medium;
-        position: absolute;
-        margin-bottom: 10%;
+        width: 60%;
     }
 
     .social-networks-club {
@@ -631,6 +641,10 @@ footer {
     #copyright-club a {
         color: inherit;
         text-decoration: none;
+    }
+
+    #menu {
+        float: left;
     }
 
 }
