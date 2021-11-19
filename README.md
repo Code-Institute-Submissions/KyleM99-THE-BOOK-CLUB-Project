@@ -39,6 +39,12 @@ Added "all" social links to the home site of each, also added copyright logo and
 ## Testing & Deployment.
 Only after resubmitting it I was told I needed this section, and as I have never seen what to put in this section, I have nothing to say.. [Don't know why it took until the resubmission to have an issue with leaving this section out, but whatever]
 
+## Issues I still have.
+One of the main issues I have no clue how to fix is this one. <br>
+![image](https://user-images.githubusercontent.com/87777851/142676458-932c30b2-bd26-498e-8455-5e7e86ddd831.png) <br>
+This has been an issue since I initially "finished" the site but I still cannot figure out what is happening.
+
+
 # -Credits
 Home page image taken from - https://unsplash.com/photos/lc7xcWebECc  
 Book Club image taken from - https://unsplash.com/photos/HH4WBGNyltc  
